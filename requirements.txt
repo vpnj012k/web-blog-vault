@@ -2,3 +2,4 @@ Flask==1.1.1
 pymongo==2.9
 environs
 requests
+jinja2>=3.1.6 # not directly required, pinned by Snyk to avoid a vulnerability
